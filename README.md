@@ -7,7 +7,7 @@ If you want to use the original datasets, please refer to the links below:
 1. DeepCrack: (https://github.com/yhlleo/DeepCrack)
 2. Crack500: (https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001?select=CRACK500)
 
-![Model Architecture](https://github.com/zaidalhuda/mdau-net/MDAU-Net Architecture.jpg?raw=true)
+![alt text](https://github.com/zaidalhuda/mdau-net/blob/main/MDAU-Net%20Architecture.jpg?raw=true)
 
 
 ## Requirements
