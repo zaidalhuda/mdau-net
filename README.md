@@ -1,7 +1,11 @@
 # MDAU-Net: Multi-Scale U-Net with Dual Attention Module for Pavement Crack Segmentation
 
 
-This is the official implementation of the proposed MDAU-Net model in the paper "MDAU-Net: A Multi-Scale U-Net with Dual Attention Module for Pavement Crack Segmentation". The model was trained and tested on two datasets "DeepCrack and Crack500". 
+This is the official implementation of the proposed MDAU-Net model in the paper **"MDAU-Net: A Multi-Scale U-Net with Dual Attention Module for Pavement Crack Segmentation"**.
+
+📄 **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10481232/)
+
+The model was trained and tested on two datasets "DeepCrack and Crack500". 
 
 If you want to use the original datasets, please refer to the links below:
 1. DeepCrack: (https://github.com/yhlleo/DeepCrack)
