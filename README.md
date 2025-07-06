@@ -46,12 +46,15 @@ Datasets/
 │       ├── images/
 │       └── masks/
 └── Crack500/
-    ├── train/
-    │   ├── images/
-    │   └── masks/
-    └── test/
-        ├── images/
-        └── masks/
+|    │   ├── train/
+│   │   ├── images/
+│   │   └── masks/
+│   ├── val/
+│   │   ├── images/
+│   │   └── masks/
+│   └── test/
+│       ├── images/
+│       └── masks/
 ```
 
 ### 3. Training
