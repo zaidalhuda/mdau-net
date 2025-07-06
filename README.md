@@ -25,7 +25,7 @@ If you want to use the original datasets, please refer to the links below:
 
 ### 1. Installation
 ```bash
-git clone https://github.com/username/mdau-net.git
+git clone https://github.com/zaidalhuda/mdau-net.git
 cd mdau-net
 pip install -r requirements.txt
 ```
