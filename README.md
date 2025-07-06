@@ -13,13 +13,14 @@ If you want to use the original datasets, please refer to the links below:
 ## Requirements
 
 1. python 3.8+
-2. pytorch 2.0.0
-3. torchvision 0.15.0
-4. opencv 4.7.0
+2. pytorch 1.8.0
+3. torchvision 0.9.0
+4. opencv 4.5.0
 5. numpy 1.21.0
-6. matplotlib 3.5.0
-7. albumentations 1.3.0
-8. tqdm 4.64.0
+6. matplotlib 3.3.0
+7. albumentations 1.1.0
+8. tqdm 4.60.0
+9. pillow 8.0.0
 
 ## Quick Start
 
