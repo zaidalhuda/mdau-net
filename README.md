@@ -46,7 +46,7 @@ Datasets/
 │       ├── images/
 │       └── masks/
 └── Crack500/
-|    │   ├── train/
+|   │── train/
 │   │   ├── images/
 │   │   └── masks/
 │   ├── val/
